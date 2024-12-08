@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+src/pages
+src/main.ts
+src/ServerApplication.ts
+
+# TypeScript
+dist/
+build/
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Configurações do OS
+*.swp
+*~
+
+# Cache
+.cache/
+
+# Dependências do sistema
+.pnp/
+.pnp.js
+
+# Outros arquivos ignorados
+coverage/
